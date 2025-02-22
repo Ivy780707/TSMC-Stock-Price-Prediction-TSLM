@@ -28,11 +28,11 @@ This project was a collaborative effort, and I was primarily responsible for the
 ## Project Structure
 ```
 tsml-stock-prediction/
-│── my_contributions/    # Contains only my contributions
-│    ├── ts_data_preprocessing.R
-│    ├── tslm_model_training.R
-│    ├── tslm_results_visualization.R
-│── images/              # Stores visualization outputs
+│── 📂my_contributions/    # Contains only my contributions
+│    ├── 📄ts_data_preprocessing.R
+│    ├── 📄tslm_model_training.R
+│    ├── 📄tslm_results_visualization.R
+│── 📂images/              # Stores visualization outputs
 │── README.md            # Main project documentation
 ```
 
