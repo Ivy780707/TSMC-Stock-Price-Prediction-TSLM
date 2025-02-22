@@ -17,10 +17,7 @@ ts_data <- xts(df$y, order.by = as.Date(df$ds))
 plot(df, type = 'l',main = "台積電2001年初至2023年底股票價格", ylab = 'price', xlab= "year",xaxt="n")
 axis.Date(1, at = seq(from = start(ts_data), to = end(ts_data), by = "1 year"),
           format = "%Y", las = 1)
-knitr::include_graphics("images/t1.png")
-
 adf.test(ts_data) #p-value=0.794
-
 
 #差分
 ndiffs(ts_data)
