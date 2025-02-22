@@ -11,7 +11,7 @@ This project aims to analyze and predict TSMC (Taiwan Semiconductor Manufacturin
 This project was a collaborative effort, and I was primarily responsible for the **Time-Series Linear Model (TSLM) implementation**, which includes:
 
 ### Data Preprocessing
-- Processed and structured stock price data using R
+- Processed and structured stock price data (TSMC Stock Prices from Early 2001 to the End of 2023) using R
 - Conducted **Augmented Dickey-Fuller (ADF) test** to check for stationarity
 - Handled missing values and outliers in the dataset
 
