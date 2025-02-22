@@ -31,6 +31,7 @@ tsml-stock-prediction/
 │── 📂my_contributions/    # Contains only my contributions
 │    ├── 📄ts_data_preprocessing.R
 │    ├── 📄tslm_model_training.R
+│    ├── 📄2330.TW.csv     #TSMC Stock Prices from Early 2001 to the End of 2023
 │── 📂images/              # Stores visualization outputs
 │── README.md            # This documentation
 ```
